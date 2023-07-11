@@ -63,7 +63,7 @@ public class VirtualPet {
     }
 
     public void nothing() {
-        hunger += 2;
+        hunger += 1;
         thirst += 1;
         waste += 1;
         boredom += 2;
